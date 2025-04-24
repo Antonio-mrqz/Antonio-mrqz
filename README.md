@@ -8,7 +8,7 @@
 
 - :school: I am a `Student` at [CDP José Cabrera]([http://suez.edu.eg/ar/](https://cdpjosecabrera.es/)).
 - :technologist: I love programming solution for every `Problem`.
-- :student: I'm currently finishing my `DAW studies` and learning a little  of `Python` on my own.
+- :student: I'm currently finishing my `DAW studies` and carrying out the practices in `Controlnet` in Jerez, usin `C#, Blazor and MudBlazor`.
 - :nerd_face: Always open to `learn new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1l__mSLTUASbas3CpJWlEZudJtDdPyXus/view).
 - :boom: You can visit [MY WEBSITE](http://antoniomrqz.me).
