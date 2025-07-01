@@ -11,7 +11,7 @@
 - :man_technologist: I recently completed my internship at `Controlnet` in Jerez, working with `C#`, `Blazor` and `MudBlazor`.
 - :seedling: I’m currently learning `Spring Framework` to become a professional `Java Backend Developer`.
 - :nerd_face: Always open to `learn new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([https://drive.google.com/file/d/1l__mSLTUASbas3CpJWlEZudJtDdPyXus/view](https://drive.google.com/file/d/1Edvv7gkonFPo8EjUxSdmDqtk5kFqeeue/view?usp=drive_link)).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1Edvv7gkonFPo8EjUxSdmDqtk5kFqeeue/view?usp=drive_link).
 - :boom: You can visit [MY WEBSITE](http://antoniomrqz.me).
 - Outside tech, I love:
    - 🎮 Playing videogames  
